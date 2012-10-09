@@ -9,10 +9,6 @@ public class HelloWorld {
 	}
 	
 	public String hello() {
-		return "Hello";
-	}
-
-	public String goodbye() {
-		return "Goodbye";
+		return "goodbye";
 	}
 }
