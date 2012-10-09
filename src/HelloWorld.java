@@ -12,4 +12,7 @@ public class HelloWorld {
 		return "Hello";
 	}
 
+	public String goodbye() {
+		return "Goodbye";
+	}
 }
