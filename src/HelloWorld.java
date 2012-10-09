@@ -8,14 +8,10 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello World");
+		System.out.print("Hello World");
 	}
 	
 	public String hello() {
 		return "goodbye";
-	}
-	
-	public String branchExperiment() {
-		return "I branched";
 	}
 }
